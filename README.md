@@ -1,6 +1,8 @@
 # Adresse_2020
 Ensemble des ressources concernant l'action Adresse 2020 :
 
+### Avancées des travaux au 08 Juin 2020
+
 ##	Suivi du MOOC Adresse 
 ## Analyses à partir de la Base Adresse Locale
 - des graphes
