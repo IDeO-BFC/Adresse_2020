@@ -14,6 +14,8 @@ Ensemble des ressources concernant l'action Adresse 2020 :
 ##	Déterminer le territoire d’expérimentation
 
 ##	Définir la méthode d’accompagnement à mettre en œuvre sur le territoire d’expérimentation
+- Exemple des adresse sur des communes fusionnées (commune déléguée)
+- Couple numéro / Voie : le plus petit dénominateur commun
 
 
 
